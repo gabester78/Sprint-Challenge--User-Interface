@@ -267,9 +267,15 @@ input{
     padding:10px;
     border-radius: 10px;
     font-size: 16px;
+    border:2px solid black;
 }
 
-#message{
+.messagebox{
     width:600px;
     height:300px;
+    margin-top: 5px;
+    padding:10px;
+    border-radius: 10px;
+    font-size: 16px;
+    border:2px solid black;
 }
